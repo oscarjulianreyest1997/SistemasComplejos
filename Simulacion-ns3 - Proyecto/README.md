@@ -5,4 +5,4 @@
 ###### ***Periodo Academico 2022-1***
 
 ## Descripcón:
-En este repositorio se encontrará toda la evidencia de la Simulación realizada para el proyecto de clase la cual establece la creación de una red Ad Hoc
+En este repositorio se encontrará toda la evidencia de la Simulación realizada para el proyecto de clase el cual establece la creación de una red Ad Hoc
